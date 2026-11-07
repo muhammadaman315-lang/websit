@@ -1,7 +1,19 @@
 *{
     background-color: aliceblue;
-    background-color: aqua;
-    border: white;
-    width: 34;
 }
 
+h1{
+    color: black;
+}
+
+h2{
+    color: blue;
+}
+h3{
+    background-color: blanchedalmond;
+}
+
+p{
+    background-color: black;
+    color: #3333;
+}
